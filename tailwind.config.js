@@ -6,6 +6,7 @@ module.exports = {
       colors: {
         'mdc-gray-dark': '#032C34',
         'mdc-gray': '#819795',
+        'mdc-orange': '#CC4D27',
       }
     }
   }
